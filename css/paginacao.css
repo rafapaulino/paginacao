@@ -1,0 +1,47 @@
+/* PAGINAÇÃO CUSTOMIZADA: ;
+// --------------------------------------------------
+*/
+
+/* newspaper theme */
+.newspaper-pagination .page-item {
+    margin: 0 8px 8px 0;
+    font-size: 0.90rem;
+}
+.newspaper-pagination .page-item .page-link {
+    border-radius: 0;
+    padding: 10px 15px;
+    color: #666;
+}
+.newspaper-pagination .page-item.active .page-link,
+.newspaper-pagination .page-item.active .page-link:hover {
+    color: #FFF;
+    background: #007BFF;
+    border-color: #007BFF;
+}
+.newspaper-pagination .page-item .page-link:hover {
+    background: #333;
+    color: #FFF;
+    border-color: #333;
+}
+
+/* blog theme */
+.blog-pagination .page-item {
+    margin: 0 8px 8px 0;
+    font-size: 0.90rem;
+}
+.blog-pagination .page-item .page-link {
+    border-radius: 0;
+    padding: 10px 15px;
+    color: #666;
+}
+.blog-pagination .page-item.active .page-link,
+.blog-pagination .page-item.active .page-link:hover {
+    color: #FFF;
+    background: #007BFF;
+    border-color: #007BFF;
+}
+.blog-pagination .page-item .page-link:hover {
+    background: #333;
+    color: #FFF;
+    border-color: #333;
+}
