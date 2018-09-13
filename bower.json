@@ -1,0 +1,21 @@
+{
+  "name": "paginacao",
+  "homepage": "https://github.com/rafapaulino/paginacao",
+  "description": "Variações para a paginação do Bootstrap",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "paginação",
+    "pagination"
+  ],
+  "authors": [
+    "Rafael Paulino"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
